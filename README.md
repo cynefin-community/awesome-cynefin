@@ -14,6 +14,7 @@ This is a community curated list of useful Cynefin framework related resources. 
 - [Articles](#articles)
 - [Research Papers](#research-papers)
 - [Courses](#courses)
+- [Workshops](#workshops)
 - [Meetups](#meetups)
 
 ## Quick Start
@@ -62,6 +63,10 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 ## Courses
 
 - [Cynefin Foundations Online](https://cognitive-edge.com/events/cynefin-foundations-online-2/) - Cynefin and Complexity: managing effectively in uncertainty.
+
+## Workshops
+
+- [Cynefin simulation](https://dandypeople.com/blog/cynefin-simulation-create-aha-feeling-20-min-plan-deliver-complex-situations/) - Create aha feeling in 20 minutes on how to plan and deliver in complex situations. May 2, 2017.
 
 ## Meetups
 
