@@ -62,6 +62,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 ## Research Papers
 
 - [Cynefin: Uncertainty, Small Worlds and Scenarios](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/french/publications/cynefin_scenarios_small_worlds.pdf) - S. French. Jul 31, 2013.
+- [Cynefin, Statistics and Decision Analysis](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/french/publications/bayesian_in_cynefin.pdf) - S. French. Jan 30, 2012.
 - [The new dynamics of strategy: Sense-making in a complex and complicated world](https://alumni.media.mit.edu/~brooks/storybiz/kurtz.pdf) - C.F. Kurtz, D.J. Snowden. Apr 24, 2003.
 
 ## Courses
