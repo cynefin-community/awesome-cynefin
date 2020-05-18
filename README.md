@@ -31,6 +31,7 @@ This is a community curated list of useful Cynefin framework related resources. 
 - [Cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework) - Wikipedia entry.
 - [Glossary](https://cognitive-edge.com/resources/glossary/)
 - [Dave Snowden](http://cognitive-edge.com/blog/author/dave-snowden/) - Dave Snowden's blog.
+- [Codefin](https://codefin.org/) - Applying Cynefin to software development, methodology, architecture and design, testing practices, and more.
 
 ## Videos
 
