@@ -50,6 +50,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 - [A tour around the latest Cynefin iteration](http://www.chriscorrigan.com/parkinglot/a-tour-around-the-latest-cynefin-iteration/) - Mar 23, 2020.
 - [Complexity in the time of COVID-19](http://www.chriscorrigan.com/parkinglot/complexity-in-the-time-of-covid-19/) - Thinking this through with Cynefin and constraints. Mar 16, 2020.
 - [Cynefin St David's Day 2020 (1 of 5)](https://cognitive-edge.com/blog/cynefin-st-davids-day-2020-1-of-n/) - The changes from Obvious to Clear and Disordered to A/C. Mar 1, 2020.
+- [Embracing Complexity in Organisations](https://medium.com/humanorganisingco/embracing-complexity-in-organisations-e440016ea17c) - Cynefin, VUCA skills, rich interconnectivity. Nov 26, 2019.
 - [Navigating Complex Marketing Decisions With The Cynefin Framework](https://www.forbes.com/sites/forbestechcouncil/2019/11/13/navigating-complex-marketing-decisions-with-the-cynefin-framework/) - Nov 13, 2019.
 - [Cynefin & perception](https://cognitive-edge.com/blog/cynefin-perception/) - Aug 24, 2019.
 - [Synderesis in Cynefin](https://cognitive-edge.com/blog/synderesis-in-cynefin/) - Jan 20, 2018.
