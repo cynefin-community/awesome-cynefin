@@ -24,6 +24,7 @@ This is a community curated list of useful Cynefin framework related resources. 
 
 ## Community
 
+- [Cynefin Community on Slack](https://cynefincommunity.slack.com) - Follow [@AnthroComplex](https://twitter.com/AnthroComplex) on Twitter to request an invite.
 - [#Cynefin](https://twitter.com/search?q=%23Cynefin) - Join the conversation.
 
 ## Reading
