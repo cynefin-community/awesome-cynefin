@@ -78,6 +78,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 
 ## Workshops
 
+- [Ritual Dissent](https://cognitive-edge.com/methods/ritual-dissent/) - Enhance proposals, stories, ideas or whatever by subjecting them to ritualised dissent (challenge) or assent (positive alternatives).
 - [Cynefin Lego Game](https://www.agile42.com/en/cynefin-lego-game/) - A game to let you experience four of the five domains of the Cynefin framework. April 29, 2020.
 - [Cynefin simulation](https://dandypeople.com/blog/cynefin-simulation-create-aha-feeling-20-min-plan-deliver-complex-situations/) - Create aha feeling in 20 minutes on how to plan and deliver in complex situations. May 2, 2017.
 
