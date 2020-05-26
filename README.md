@@ -67,6 +67,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 
 - [Cynefin: Uncertainty, Small Worlds and Scenarios](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/french/publications/cynefin_scenarios_small_worlds.pdf) - S. French. Jul 31, 2013.
 - [Cynefin, Statistics and Decision Analysis](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/french/publications/bayesian_in_cynefin.pdf) - S. French. Jan 30, 2012.
+- [Bramble Bushes in a Thicket](http://old.cognitive-edge.com/wp-content/uploads/2006/10/52-Bramble-Bushes-in-a-Thicket-1.pdf) - Narrative and the intangibles of learning networks. C.F. Kurtz and D.J. Snowden. Oct 18, 2006.
 - [Changing Homeland Security: Shape Patterns, Not Programs](https://www.hsaj.org/articles/680) - C. Bellavita. Oct 1, 2006.
 - [Stories from the frontier (7.3-4)](https://journal.emergentpublications.com/article/stories-from-the-frontier-7-3-4/) - Archetypes and archetype extraction. D. Snowden. Dec 31, 2005.
 - [The new dynamics of strategy: Sense-making in a complex and complicated world](https://alumni.media.mit.edu/~brooks/storybiz/kurtz.pdf) - C.F. Kurtz, D.J. Snowden. Apr 24, 2003.
