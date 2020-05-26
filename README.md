@@ -47,6 +47,7 @@ This is a community curated list of useful Cynefin framework related resources. 
 
 Blog posts and other interesting examples of the Cynefin framework. Ordered by date, newest first.
 
+- [Enabling constraints in software development](https://mkaszubowski.com/2020/05/11/enabling-constraints-in-software-development.html) - Examples of how you can use enabling constraints in software development process
 - [Black Elephants in our Safety Systems](http://gswong.com/black-elephants-in-our-safety-systems/) - COVID-19 is a black elephant. A black elephant is a cross between a black swan and the proverbial elephant in the room. Apr 6, 2020.
 - [A tour around the latest Cynefin iteration](http://www.chriscorrigan.com/parkinglot/a-tour-around-the-latest-cynefin-iteration/) - Mar 23, 2020.
 - [Complexity in the time of COVID-19](http://www.chriscorrigan.com/parkinglot/complexity-in-the-time-of-covid-19/) - Thinking this through with Cynefin and constraints. Mar 16, 2020.
