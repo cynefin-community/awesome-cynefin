@@ -36,7 +36,8 @@ This is a community curated list of useful Cynefin framework related resources. 
 
 ## Videos
 
-- [Cynefin Community](https://www.youtube.com/channel/UCnUs0sHiVp8tn41ohZYFckA) - YouTube channel.
+- [Cynefin on YouTube](https://www.youtube.com/channel/UCnUs0sHiVp8tn41ohZYFckA) - Talks by Dave Snowden and the Cynefin community.
+- [Cynefin on Vimeo](https://vimeo.com/channels/cynefincommunity) - Talks and presentations relevant to Cynefin.
 - [Complexity, Chaos, and COVID-19 Webinar](https://cognitive-edge.wistia.com/medias/y8wjlrc2tb) - Applying Cynefin and complexity thinking to navigate the COVID-19 crisis with Dave Snowden, Alicia Juarrero, Ann Pendleton-Jullian, and Valdis Krebs. Hosted by Sonja Blignaut.
 
 ## Podcasts
