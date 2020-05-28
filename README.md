@@ -64,7 +64,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 - [The Origins of Cynefin - Part 2](https://cognitive-edge.com/blog/part-two-origins-of-cynefin/) - Jul 8, 2010.
 - [The Origins of Cynefin - Part 1](https://cognitive-edge.com/blog/part-one-origins-of-cynefin/) - Mar 25, 2010.
 - [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making) - by David J. Snowden and Mary E. Boone. Nov, 2007.
-
+- [The Boisot Blog](https://cognitive-edge.com/wp-content/uploads/2018/01/The-Boisot-Blog.pdf) - In 2007, Max Boisot was the guest blogger on the Cognitive Edge web site. Sep 30 - Oct 13, 2007.
 
 ## Research Papers
 
