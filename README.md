@@ -59,6 +59,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 - [Cynefin & perception](https://cognitive-edge.com/blog/cynefin-perception/) - Aug 24, 2019.
 - [Synderesis in Cynefin](https://cognitive-edge.com/blog/synderesis-in-cynefin/) - Jan 20, 2018.
 - [Using Cynefin to make sense of preparing for the future of work](https://www.morebeyond.co.za/using-cynefin-to-make-sense-of-preparing-for-the-future-of-work/) - Nov 22, 2017.
+- [Cynefin as Reference Framework to Facilitate Insight and Decision-Making in Complex Contexts of Biomedical Research](https://www.frontiersin.org/articles/10.3389/fnins.2017.00634/full) - 14 Nov 2017.
 - [Cynefin for Developers](https://lizkeogh.com/cynefin-for-developers/) - Striking the balance between analysis and feedback. Jan 7, 2015.
 - [Cynefin and the Business Analyst / Product Owner](https://theitriskmanager.com/2014/09/02/cynefin-and-the-business-analyst-product-owner/) - Sept 2, 2014.
 - [The Origins of Cynefin - Part 2](https://cognitive-edge.com/blog/part-two-origins-of-cynefin/) - Jul 8, 2010.
