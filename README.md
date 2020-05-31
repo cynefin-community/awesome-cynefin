@@ -57,6 +57,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 - [Embracing Complexity in Organisations](https://medium.com/humanorganisingco/embracing-complexity-in-organisations-e440016ea17c) - Cynefin, VUCA skills, rich interconnectivity. Nov 26, 2019.
 - [Navigating Complex Marketing Decisions With The Cynefin Framework](https://www.forbes.com/sites/forbestechcouncil/2019/11/13/navigating-complex-marketing-decisions-with-the-cynefin-framework/) - Nov 13, 2019.
 - [Cynefin & perception](https://cognitive-edge.com/blog/cynefin-perception/) - Aug 24, 2019.
+- [7 Differences between complex and complicated](https://blog.usejournal.com/7-differences-between-complex-and-complicated-fa44e0844606) - Aug 19, 2019.
 - [Synderesis in Cynefin](https://cognitive-edge.com/blog/synderesis-in-cynefin/) - Jan 20, 2018.
 - [Using Cynefin to make sense of preparing for the future of work](https://www.morebeyond.co.za/using-cynefin-to-make-sense-of-preparing-for-the-future-of-work/) - Nov 22, 2017.
 - [Cynefin as Reference Framework to Facilitate Insight and Decision-Making in Complex Contexts of Biomedical Research](https://www.frontiersin.org/articles/10.3389/fnins.2017.00634/full) - 14 Nov 2017.
