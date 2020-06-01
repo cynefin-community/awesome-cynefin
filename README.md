@@ -64,6 +64,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 - [Cynefin for Developers](https://lizkeogh.com/cynefin-for-developers/) - Striking the balance between analysis and feedback. Jan 7, 2015.
 - [Cynefin and the Business Analyst / Product Owner](https://theitriskmanager.com/2014/09/02/cynefin-and-the-business-analyst-product-owner/) - Sept 2, 2014.
 - [The Origins of Cynefin - Part 2](https://cognitive-edge.com/blog/part-two-origins-of-cynefin/) - Jul 8, 2010.
+- [Complex Dynamical Systems Theory](http://old.cognitive-edge.com/wp-content/uploads/2010/06/100608-Complex-Dynamical-Systems-Theory.pdf) - A. Juarrero. Jun 8, 2010.
 - [The Origins of Cynefin - Part 1](https://cognitive-edge.com/blog/part-one-origins-of-cynefin/) - Mar 25, 2010.
 - [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making) - by David J. Snowden and Mary E. Boone. Nov, 2007.
 - [The Boisot Blog](https://cognitive-edge.com/wp-content/uploads/2018/01/The-Boisot-Blog.pdf) - In 2007, Max Boisot was the guest blogger on the Cognitive Edge web site. Sep 30 - Oct 13, 2007.
