@@ -79,6 +79,7 @@ Blog posts and other interesting examples of the Cynefin framework. Ordered by d
 - [Stories from the frontier (7.3-4)](https://journal.emergentpublications.com/article/stories-from-the-frontier-7-3-4/) - Archetypes and archetype extraction. D. Snowden. Dec 31, 2005.
 - [The new dynamics of strategy: Sense-making in a complex and complicated world](https://alumni.media.mit.edu/~brooks/storybiz/kurtz.pdf) - C.F. Kurtz, D.J. Snowden. Apr 24, 2003.
 - [Complex acts of knowing: paradox and descriptive self‐awareness](http://old.cognitive-edge.com/wp-content/uploads/2002/07/13-Complex-Acts-of-Knowing-paradox-and-descriptive-self-awareness.pdf) - D. Snowden, Journal of Knowledge Management, Vol. 6 No. 2, pp. 100-111. May 1, 2002.
+- [Boundaries, Hierarchies and Networks in Complex Systems](http://blogs.cim.warwick.ac.uk/complexity/wp-content/uploads/sites/11/2014/02/Cilliers-2001-Boundaries-Hierarchies-and-Networks.pdf) - P. Cilliers, International Journal of Innovation Management, Vol. 5, No. 2. Jun, 2001.
 
 ## Courses
 
