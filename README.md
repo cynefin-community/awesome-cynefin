@@ -42,6 +42,7 @@ This is a community curated list of useful Cynefin framework related resources. 
 
 ## Podcasts
 
+- [Building Scalable Organizations that can Deal with Uncertainty](https://stories.platformdesigntoolkit.com/with-dave-snowden-88ef04b7fadb) - Dave Snowden unpacks ideas around the next generation of organizational design that enables "contextually unique solutions to emerge and adapt based on a coherent whole". Dec 1, 2020.
 - [Cynefin: Sense-Making in a Time of Turmoil](https://soundcloud.com/troubleshootingagile/sense-making-framework) - How can you and your agile team make sense of the world around you and adjust accordingly? Mar 26, 2020.
 
 ## Articles
