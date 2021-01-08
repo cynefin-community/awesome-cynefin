@@ -19,7 +19,7 @@ This is a community curated list of useful Cynefin framework related resources. 
 
 ## Quick Start
 
-- [Cynefin framework introduction](https://cognitive-edge.com/videos/cynefin-framework-introduction/) - An introduction to the Cynefin framework with a brief explanation of its origin and evolution and a discussion of its architecture and function by [Dave Snowden](https://twitter.com/snowded) (12:12).
+- [Cynefin framework introduction](https://www.youtube.com/watch?v=N7oz366X0-8) - An introduction to the Cynefin framework with a brief explanation of its origin and evolution and a discussion of its architecture and function by [Dave Snowden](https://twitter.com/snowded) (12:12).
 - [Cynefin for Everyone!](https://medium.com/@lunivore/cynefin-for-everyone-d5f47d9bd102) - A quick introduction to Cynefin by [Liz Keogh](https://twitter.com/lunivore).
 
 ## Community
